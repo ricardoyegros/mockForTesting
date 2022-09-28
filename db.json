@@ -5,126 +5,52 @@
       "name": "Dell Alienware 15",
       "status": "800",
       "species": "Dell",
-      "type": "",
       "gender": "Notebook",
-      "origin": {
-        "name": "Earth (C-137)",
-        "url": "https://rickandmortyapi.com/api/location/1"
-      },
       "image": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/AW_m15_Ryzen_Edition_R5_open_right_angled.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/1"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/1",
-      "created": "2017-11-04T18:48:46.250Z"
+      "url": "https://rickandmortyapi.com/api/character/1"
     },
     {
       "id": 2,
       "name": "Lenovo Legion 15",
       "status": "850",
       "species": "Lenovo",
-      "type": "",
       "gender": "Notebook",
-      "origin": {
-        "name": "unknown",
-        "url": ""
-      },
-      "location": {
-        "name": "Citadel of Ricks",
-        "url": "https://rickandmortyapi.com/api/location/3"
-      },
       "image": "https://d2r9epyceweg5n.cloudfront.net/stores/001/849/231/products/qtech-placas-141-b99b1a376724cd9e8c16342763550363-640-0.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/1"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/2",
-      "created": "2017-11-04T18:50:21.651Z"
+      "url": "https://rickandmortyapi.com/api/character/2"
     },
     {
       "id": 3,
       "name": "Asus VivoBook 15",
       "status": "900",
       "species": "Asus",
-      "type": "",
       "gender": "Notebook",
-      "origin": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
-      "location": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
       "image": "https://www.cordobanotebooks.com.ar/wp-content/uploads/2022/08/Sin-titulo-1ASFFAF.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/6"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/3",
-      "created": "2017-11-04T19:09:56.428Z"
+      "url": "https://rickandmortyapi.com/api/character/3"
     },
     {
       "id": 4,
       "name": "HP Pavilion x360",
       "status": "730",
       "species": "HP",
-      "type": "",
       "gender": "Notebook",
-      "origin": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
-      "location": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
       "image": "https://www.notebookcheck.org/uploads/tx_nbc2/HP_Pavilion_15-cs0003ng_1.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/6"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/4",
-      "created": "2017-11-04T19:22:43.665Z"
+      "url": "https://rickandmortyapi.com/api/character/4"
     },
     {
       "id": 5,
       "name": "Mackbook Air 2020",
       "status": "1100",
       "species": "Apple",
-      "type": "",
       "gender": "Notebook",
-      "origin": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
-      "location": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
       "image": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151520-laptops-review-hands-on-apple-macbook-air-2020-initial-review-keyboard-dreams-become-a-reality-image1-dwyvdpnsl7.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/6"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/5",
-      "created": "2017-11-04T19:26:56.301Z"
+      "url": "https://rickandmortyapi.com/api/character/5"
     },
     {
       "id": 6,
       "name": "Mac Mini 2022 M2",
       "status": "1300",
       "species": "Apple",
-      "type": "",
       "gender": "PC",
-      "origin": {
-        "name": "Abadango",
-        "url": "https://rickandmortyapi.com/api/location/2"
-      },
-      "location": {
-        "name": "Abadango",
-        "url": "https://rickandmortyapi.com/api/location/2"
-      },
       "image": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/Untitled9072.png",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/27"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/6",
-      "created": "2017-11-04T19:50:28.250Z"
+      "url": "https://rickandmortyapi.com/api/character/6"
     }]}
