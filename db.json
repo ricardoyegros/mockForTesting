@@ -1,10 +1,4 @@
 {
-  "info": {
-    "count": 826,
-    "pages": 42,
-    "next": "https://rickandmortyapi.com/api/character/?page=2",
-    "prev": null
-  },
   "results": [
     {
       "id": 1,
@@ -133,27 +127,4 @@
       ],
       "url": "https://rickandmortyapi.com/api/character/6",
       "created": "2017-11-04T19:50:28.250Z"
-    },
-    {
-      "id": 7,
-      "name": "Macbook Pro 2021 M1",
-      "status": "1700",
-      "species": "Apple",
-      "type": "Genetic experiment",
-      "gender": "Notebook",
-      "origin": {
-        "name": "Earth (Replacement Dimension)",
-        "url": "https://rickandmortyapi.com/api/location/20"
-      },
-      "location": {
-        "name": "Testicle Monster Dimension",
-        "url": "https://rickandmortyapi.com/api/location/21"
-      },
-      "image": "https://www.notebookcheck.org/fileadmin/Notebooks/Apple/MacBook_Pro_16_2021_M1_Max_32C_64GB/Unbenannt_1.jpg",
-      "episode": [
-        "https://rickandmortyapi.com/api/episode/10",
-        "https://rickandmortyapi.com/api/episode/11"
-      ],
-      "url": "https://rickandmortyapi.com/api/character/7",
-      "created": "2017-11-04T19:59:20.523Z"
-    }]}
+    }
